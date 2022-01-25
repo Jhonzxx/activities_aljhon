@@ -1,1 +1,1 @@
-# activities_aljhon
+Yes because Git is an immensely popular Version Control System, which allows developers to create a history of changes that occur over time in their code.Git helps programmers collaborate, coordinate work, and work together on complex code and development projects.
